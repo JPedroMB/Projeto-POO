@@ -78,4 +78,4 @@ sqlite3 supermercado.db < database_backup.sql
 
 ## Autor
 
-Projeto desenvolvido para disciplina de Redes de Computadores
+Projeto desenvolvido para disciplina de Programação Orientada a Objetos.
