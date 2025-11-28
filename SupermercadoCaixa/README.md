@@ -1,5 +1,7 @@
 # Sistema de Caixa de Supermercado
 
+Esse read.me foi feito com a ajuda da IA (Claude).
+
 Sistema desenvolvido em C# com Windows Forms para gerenciamento de produtos de supermercado.
 
 ## Funcionalidades
